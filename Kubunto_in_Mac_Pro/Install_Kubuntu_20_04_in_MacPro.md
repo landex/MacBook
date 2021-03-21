@@ -50,7 +50,7 @@ If you type *zsh* this window will be displayed, is only you follow the window i
 
 ***Type q to quit***
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20200930_134831.png" alt="drawing" width="400"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20200930_134831.png" alt="drawing" width="400"/>
 
 Version of ***zsh*** installed.
 ```shell
@@ -159,7 +159,7 @@ reboot
 Syntax Highlighting
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20200930_205609.png" alt="drawing" width="150"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20200930_205609.png" alt="drawing" width="150"/>
 
 Now we can add more alias to more colors in terminal.
 In your *.zshrc* file add lines below.
@@ -174,7 +174,7 @@ alias egrep='egrep --color=auto'
 ```
 Result, but before we need reload the ***.zshrc*** to effective configuration.
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20200930_210140.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20200930_210140.png" alt="drawing" width="250"/>
 
 ### VIM or VI???
 I prefer *vim*, for why? For why like... :smiley:
@@ -202,7 +202,7 @@ echo alias vi='vim' >> .zshrc
 Testing if work, open a **.zshrc** file and validate that the file is colorful.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20200930_212035.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20200930_212035.png" alt="drawing" width="250"/>
 
 
 ### Configuration of PS1 - Prompt String One
@@ -275,7 +275,7 @@ sudo add-apt-repository ppa:linuxuprising/java
 ```
 This window will show up, please click in **ENTER**.
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_125934.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_125934.png" alt="drawing" width="250"/>
 
 Now we run two command, update and install see.
 ```shell
@@ -299,8 +299,8 @@ sudo apt install oracle-java11-installer-local -y
 
 Follow instrunction show in window, ok?
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_131223.png" alt="drawing" width="250"/>
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_131242.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_131223.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_131242.png" alt="drawing" width="250"/>
 
 **But the installation not work the error will hapen**
 ```shell
@@ -318,7 +318,7 @@ Now in this case we need make a download of jdk 11 from Oracle site and copy to 
 
 Make download of this file - ***jdk-11.0.8_linux-x64_bin.tar.gz***
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_200523.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_200523.png" alt="drawing" width="250"/>
 
 Copy file downloaded to directory - ***/var/cache/oracle-jdk11-installer-local***
 ```shell
@@ -477,34 +477,34 @@ Testing Fira Code and Ligatures in VSCode.
 #### In Konsole
 To set up fira code in Konsole, click in *Settings* after click in *Edit Current Profile*.
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_232523.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_232523.png" alt="drawing" width="250"/>
 
 This window will be open.
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_231605.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_231605.png" alt="drawing" width="250"/>
 
 In lef of window click in ***Appearence*** and in righ side of window near of bottom click in ***Choose*** to select a font.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_231635.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_231635.png" alt="drawing" width="250"/>
 
 
 Select font window will be opened, now in left near of bottom, click in checkbox to system show all fonts, in square font select the "Fira Code" I prefer the light style, but you can select what the best style for you, and the best size to your eyes. Click in "OK"
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_231916.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_231916.png" alt="drawing" width="250"/>
 
 
 Returned to this window click in "Apply" and "OK".
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_231949.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/images/Screenshot_20201001_231949.png" alt="drawing" width="250"/>
 
 
 Now is time to testing in your Konsole.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_232201.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_232201.png" alt="drawing" width="250"/>
 
 
 ### # Fira Code in VSCode
@@ -514,25 +514,25 @@ Now we will configure the Fira Code and ligatures in ***VSCode***
 Type ***Control*** + ***coma*** to open Settings.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201002_204919.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201002_204919.png" alt="drawing" width="250"/>
 
 
 In search bar *Search Settings* type ***font*** see example below.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_234547.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_234547.png" alt="drawing" width="250"/>
 
 
 Scrow down, to find option ***Editor:Font Ligatures*** and click in ***Edit in settings.json***.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201001_234611.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201001_234611.png" alt="drawing" width="250"/>
 
 
 The ***settings.json*** will be open.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201002_205632.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201002_205632.png" alt="drawing" width="250"/>
 
 
 Paste this configuration, or changer according your preferences.
@@ -545,13 +545,13 @@ Paste this configuration, or changer according your preferences.
 Save setting and testing changes.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201002_210024.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201002_210024.png" alt="drawing" width="250"/>
 
 
 Changes are done, and testing with success.
 
 
-<img align="center" src="https://github.com/landex/Kubuntu_20_04/blob/master/images/Screenshot_20201002_210104.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Kubunto_in_Mac_Pro/Kubuntu_Images/Screenshot_20201002_210104.png" alt="drawing" width="250"/>
 
 
 ## References:

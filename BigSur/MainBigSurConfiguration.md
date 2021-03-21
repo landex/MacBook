@@ -369,7 +369,7 @@ Testing the syntax highlight.
 
 
 
-<img align="center" src="https://github.com/landex/MacBook/blobs/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-13%20at%2017.01.29.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-13%20at%2017.01.29.png" alt="drawing" width="450"/>
 
 
 
@@ -392,7 +392,7 @@ After open ***Command Pallete*** type ***Shell*** and select the option ***Shell
 
 
 
-<img align="center" src="https://github.com/landex/MacBook/blobs/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-05%20at%2019.21.05.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-05%20at%2019.21.05.png" alt="drawing" width="450"/>
 
 
 
@@ -408,7 +408,7 @@ The preferences will be opne.
 
 
 
-<img align="center" src="https://github.com/landex/MacBook/blobs/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.43.45.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.43.45.png" alt="drawing" width="450"/>
 
 
 
@@ -416,7 +416,7 @@ In search settings type ***"font"***
 
 
 
-<img align="center" src="https://github.com/landex/MacBook/blobs/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.44.26.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.44.26.png" alt="drawing" width="450"/>
 
 
 
@@ -424,7 +424,7 @@ Scroll down to find **font ligatures** and click in **Edit in settings.json**
 
 
 
-<img align="center" src="https://github.com/landex/MacBook/blobs/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.44.34.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.44.34.png" alt="drawing" width="450"/>
 
 
 
@@ -440,7 +440,7 @@ Paste the configuration below:
 
 
 
-<img align="center" src="https://github.com/landex/MacBook/blobs/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.45.21.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.45.21.png" alt="drawing" width="450"/>
 
 
 
@@ -448,7 +448,7 @@ Testing the changes
 
 
 
-<img align="center" src="https://github.com/landex/MacBook/blobs/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.45.47.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.45.47.png" alt="drawing" width="450"/>
 
 
 

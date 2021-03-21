@@ -344,7 +344,7 @@ Testing the changes of syntax highlight.
 
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-04%20at%2012.35.01.png" alt="drawing" width="400"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-04%20at%2012.35.01.png" alt="drawing" width="400"/>
 
 
 
@@ -360,7 +360,7 @@ To enable this you need reload the configureation file, ***source $ZDOTDIR/.zshr
 
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-04%20at%2013.04.16.png" alt="drawing" width="400"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-04%20at%2013.04.16.png" alt="drawing" width="400"/>
 
 #### More Colors, now we will add alias to give more colors to grep command.
 Attention with quotes simples and double in commands below.
@@ -376,7 +376,7 @@ Close and open termina again, and make test, the expected is output below.
 The word Chrome was highlighted with red color.
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-05%20at%2008.50.25.png" alt="drawing" width="500"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-05%20at%2008.50.25.png" alt="drawing" width="500"/>
 
 
 
@@ -388,17 +388,17 @@ Access the github page https://github.com/tonsky/FiraCode and make download of f
 
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-06%20at%2021.17.26.png" alt="drawing" width="250"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-06%20at%2021.17.26.png" alt="drawing" width="250"/>
 
 
 Unzip the filles access **ttf** folder, select all files and press right and select open with ***font book*** and make be happy.
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-06%20at%2021.23.14.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-06%20at%2021.23.14.png" alt="drawing" width="350"/>
 
 Installing the Fonts.
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-06%20at%2021.24.01.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-06%20at%2021.24.01.png" alt="drawing" width="350"/>
 
 ### Set up Fira Code in terminal
 
@@ -407,26 +407,26 @@ Access ***Terminal*** preferences and select change the font, I prefer the ***Fi
 Click in change to change the font.
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-06%20at%2021.38.23.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-06%20at%2021.38.23.png" alt="drawing" width="350"/>
 
 
 Select the font, ***I prefer Fira Code Retina***
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-06%20at%2021.38.50.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-06%20at%2021.38.50.png" alt="drawing" width="350"/>
 
 
 Font Selected.
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-06%20at%2021.39.00.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-06%20at%2021.39.00.png" alt="drawing" width="350"/>
 
 
 ***Testing the Fira Code Font and Ligatures in terminal*** :exclamation: :exclamation: :exclamation:
 
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-06%20at%2021.40.54.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-06%20at%2021.40.54.png" alt="drawing" width="350"/>
 
 
 
@@ -532,7 +532,7 @@ Below have the list of colors that you can use.
 
 
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-08%20at%2022.05.06.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-08%20at%2022.05.06.png" alt="drawing" width="450"/>
 
 
 
@@ -543,7 +543,7 @@ PS1='%B%F{108}YOURUSERNAME%f%b in %F{062}%~%f -> '
 
 The output is.
 
-<img align="center" src="https://github.com/landex/OSX/blob/master/Images/Screen%20Shot%202020-11-08%20at%2022.22.21.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/blob/main/Catalina/Catalina_Images/Screen%20Shot%202020-11-08%20at%2022.22.21.png" alt="drawing" width="450"/>
 
 #### Installing New Version of Ruby
 #### Installing New Version of Python

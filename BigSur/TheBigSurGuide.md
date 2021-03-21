@@ -26,7 +26,7 @@ This is initial terminal appearance, after installed the Big Sur.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-16%20at%2007.55.18.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-16%20at%2007.55.18.png" alt="drawing" width="350"/>
 
 
 
@@ -36,7 +36,7 @@ Firs, I change profile to ***Pro***, I like the transparent terminal, to access 
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-16%20at%2008.08.00.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-16%20at%2008.08.00.png" alt="drawing" width="350"/>
 
 
 
@@ -46,7 +46,7 @@ A while ago I met a font called Fira Code, so it was love at first sight. :heart
 Make download in this link [Fira Code](https://github.com/tonsky/FiraCode). Access and click in button below to download.
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-16%20at%2008.42.35.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-16%20at%2008.42.35.png" alt="drawing" width="350"/>
 
 
 After make download, to install fonts, unzip the folder and copy the ***.ttf*** files to directory ***~/Library/Fonts***, see command below.
@@ -87,7 +87,7 @@ This is the original font in my case configured to my terminal.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-16%20at%2008.57.31.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-16%20at%2008.57.31.png" alt="drawing" width="350"/>
 
 
 
@@ -95,7 +95,7 @@ Setting the font.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-16%20at%2008.57.57.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-16%20at%2008.57.57.png" alt="drawing" width="350"/>
 
 
 
@@ -103,7 +103,7 @@ Testing the ligatures, I think that you will love it too!!!
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-16%20at%2008.59.08.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-16%20at%2008.59.08.png" alt="drawing" width="350"/>
 
 
 
@@ -354,7 +354,7 @@ To testing close and open your terminal, and type a valid commands to validate.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-18%20at%2008.40.29%20.png" alt="drawing" width="350"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-18%20at%2008.40.29%20.png" alt="drawing" width="350"/>
 
 
 
@@ -394,7 +394,7 @@ Below have the list of colors that you can use.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-08%20at%2022.05.06.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-08%20at%2022.05.06.png" alt="drawing" width="450"/>
 
 
 
@@ -407,7 +407,7 @@ The output is.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-11-08%20at%2022.22.21.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-11-08%20at%2022.22.21.png" alt="drawing" width="450"/>
 
 
 
@@ -489,7 +489,7 @@ After open ***Command Pallete*** type ***Shell*** and select the option ***Shell
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-12-05%20at%2019.21.05.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-05%20at%2019.21.05.png" alt="drawing" width="450"/>
 
 
 
@@ -505,7 +505,7 @@ The preferences will be opne.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-12-14%20at%2013.43.45.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.43.45.png" alt="drawing" width="450"/>
 
 
 
@@ -513,7 +513,7 @@ In search settings type ***"font"***
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-12-14%20at%2013.44.26.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.44.26.png" alt="drawing" width="450"/>
 
 
 
@@ -521,7 +521,7 @@ Scroll down to find **font ligatures** and click in **Edit in settings.json**
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-12-14%20at%2013.44.34.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.44.34.png" alt="drawing" width="450"/>
 
 
 
@@ -536,7 +536,7 @@ Paste the configuration below:
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-12-14%20at%2013.45.21.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.45.21.png" alt="drawing" width="450"/>
 
 
 
@@ -544,7 +544,7 @@ Testing the changes
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-12-14%20at%2013.45.47.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-14%20at%2013.45.47.png" alt="drawing" width="450"/>
 
 
 
@@ -572,7 +572,7 @@ Testing the syntax highlight.
 
 
 
-<img align="center" src="https://github.com/landex/BigSur/blob/main/images/Screen%20Shot%202020-12-13%20at%2017.01.29.png" alt="drawing" width="450"/>
+<img align="center" src="https://github.com/landex/MacBook/tree/main/BigSur/BigSur_Images/Screen%20Shot%202020-12-13%20at%2017.01.29.png" alt="drawing" width="450"/>
 
 
 
